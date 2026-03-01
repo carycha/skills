@@ -1,12 +1,17 @@
 {
-  "lastUpdated": "2026-02-09",
+  "lastUpdated": "2026-03-01",
   "version": "1.0.0",
+  "totalEntries": 2,
   "skills": [
     {
-      "skillId": "",
-      "file": "",
-      "keywords": [],
-      "count": 
+      "id": "remotion-best-practices",
+      "name": "Remotion 最佳實踐",
+      "file": "skill-remotion-best-practices.md"
+    },
+    {
+      "id": "skill-creator",
+      "name": "Gemini CLI 技能開發與移植",
+      "file": "skill-skill-creator.md"
     }
   ]
 }

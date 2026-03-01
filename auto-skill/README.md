@@ -94,11 +94,13 @@ experience/
 
 ## 如何使用
 
-1. 把 `auto-skill/` 放進你的技能目錄（例如 `~/.agents/skills/`）。
-2. 在終端輸入：
-   `npx skills add toolsai/auto-skill`
-
-開始對話，享受 AI 自進化的樂趣！
+1. 確保 `auto-skill/` 已放置於你的技能目錄（預設為 `~/.gemini/skills/auto-skill/`）。
+2. 在 `~/.gemini/GEMINI.md` 或項目的 `GEMINI.md` 中加入任務啟動協議：
+   ```markdown
+   ## 任務啟動協議 (強制)
+   * 當開啟新任務或觸發任何技能時，必須先讀取並執行 auto-skill 技能的 SKILL.md。
+   ```
+3. 開始對話，Gemini CLI 會自動偵測並依據 `SKILL.md` 執行自進化知識累積。
 
 ---
 
