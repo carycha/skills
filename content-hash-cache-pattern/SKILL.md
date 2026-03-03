@@ -1,6 +1,6 @@
 ---
 name: content-hash-cache-pattern
-description: Content-Hash Cache Pattern Expert. Use when the user needs to implement efficient, path-independent caching for expensive file parsing (PDF, images, large text) using SHA-256 hashes to prevent redundant processing. 「內容雜湊快取模式」專家。
+description: Content-Hash Cache Pattern Expert. Use when the user needs to implement efficient, path-independent caching for expensive file parsing using SHA-256 hashes to prevent redundant processing. 「內容雜湊快取模式」
 ---
 
 # Content-Hash File Cache Pattern

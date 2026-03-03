@@ -1,6 +1,6 @@
 ---
 name: polars
-description: Polars DataFrame Expert. Use when the user asks for high-performance data manipulation, processing large datasets (CSV, Parquet, JSON), lazy evaluation pipelines, or blazing fast data transformations that outperform pandas.
+description: Polars DataFrame Expert. Use when the user asks for high-performance data manipulation, processing large datasets (CSV, Parquet, JSON), lazy evaluation pipelines, or fast data transformations. 「Polars 高效能資料處理」
 ---
 
 # Polars

@@ -1,6 +1,6 @@
 ---
 name: docker-compose-setup
-description: Docker Compose Orchestration Expert. Use when designing multi-container architectures, configuring networks/volumes, implementing healthchecks, or troubleshooting service startup sequences and environment-specific overrides.
+description: Docker Compose Orchestration Expert. Use when the user asks to design multi-container architectures, configure networks/volumes, implement healthchecks, or troubleshoot service startup sequences. 「Docker Compose 編排專家」
 ---
 
 # Docker Compose Setup

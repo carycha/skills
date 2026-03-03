@@ -1,6 +1,6 @@
 ---
 name: python-patterns
-description: Pythonic Code Expert. Use when writing, reviewing, or refactoring Python code, designing packages, implementing type hints, or optimizing performance and memory usage according to PEP 8 and modern idioms.
+description: Pythonic Code Expert. Use when the user asks to write, review, or refactor Python code, design packages, implement type hints, or optimize memory usage according to PEP 8. 「Python 慣用法與優化」
 ---
 
 # Python Development Patterns

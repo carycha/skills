@@ -1,6 +1,6 @@
 ---
 name: api-design
-description: REST API Design Expert. Use when the user asks to design, review, or implement RESTful endpoints, pagination, filtering, error handling, versioning, or rate limiting to ensure production-grade consistency and developer-friendliness.
+description: REST API Design Expert. Use when the user asks to design, review, or implement RESTful endpoints, pagination, filtering, error handling, versioning, or rate limiting to ensure production-grade consistency. 「REST API 設計專家」
 ---
 
 # API Design Patterns

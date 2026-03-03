@@ -1,9 +1,6 @@
 ---
 name: data-analyst
-description: |
-  SQL, pandas, and statistical analysis expertise for data exploration and insights.
-  Use when: analyzing data, writing SQL queries, using pandas, performing statistical analysis,
-  or when user mentions data analysis, SQL, pandas, statistics, or needs help exploring datasets.
+description: Data Analyst & SQL Expert. Use when the user asks to analyze data, write SQL queries, use pandas, perform statistical analysis, or needs help exploring datasets for insights. 「資料分析與統計專家」
 license: MIT
 metadata:
   author: awesome-llm-apps

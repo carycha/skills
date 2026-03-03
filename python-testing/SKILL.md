@@ -1,6 +1,6 @@
 ---
 name: python-testing
-description: Python Testing Expert. Use when designing test suites with pytest, implementing TDD (Red-Green-Refactor), writing fixtures and mocks, or reviewing test coverage and infrastructure to ensure code quality and reliability.
+description: Python Testing Expert. Use when the user asks to design test suites with pytest, implement TDD (Red-Green-Refactor), write fixtures and mocks, or review test coverage. 「Python 測試與品質控管」
 ---
 
 # Python Testing Patterns

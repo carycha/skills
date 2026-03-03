@@ -1,6 +1,6 @@
 ---
 name: docker-production
-description: Docker Production Deployment Expert. Use when configuring high-availability healthchecks, resource governance, logging drivers, monitoring stacks (Prometheus/Grafana), or implementing zero-downtime rolling/blue-green updates.
+description: Docker Production Deployment Expert. Use when the user asks to configure high-availability healthchecks, resource governance, monitoring stacks (Prometheus/Grafana), or rolling updates. 「Docker 生產環境部署專家」
 ---
 
 # Docker Production

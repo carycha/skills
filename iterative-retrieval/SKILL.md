@@ -1,6 +1,6 @@
 ---
 name: iterative-retrieval
-description: Codebase Context Retrieval Expert. Use when the user needs a deep understanding of a codebase, or when a sub-agent fails due to missing context. Implements a 4-phase refined search (Dispatch-Evaluate-Refine-Loop) for high-precision file discovery. 「迭代檢索」模式。
+description: Codebase Context Retrieval Expert. Use when the user needs deep codebase understanding or when other tools fail to find context, implementing a 4-phase refined search (Dispatch-Evaluate-Refine). 「迭代檢索模式」
 ---
 
 # Iterative Retrieval Pattern

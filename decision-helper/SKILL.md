@@ -1,9 +1,6 @@
 ---
 name: decision-helper
-description: |
-  Structured decision-making frameworks for evaluating options and making informed choices.
-  Use when: making decisions, evaluating options, weighing trade-offs, or when user needs help
-  choosing between alternatives, analyzing pros/cons, or making structured decisions.
+description: Decision-Making Framework Expert. Use when the user needs to evaluate options, weigh trade-offs, analyze pros/cons, or make structured choices using professional frameworks. 「決策分析與評估專家」
 license: MIT
 metadata:
   author: awesome-llm-apps

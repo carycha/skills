@@ -1,6 +1,6 @@
 ---
 name: docker-security
-description: Docker Security Hardening Expert. Use when configuring non-root users, read-only filesystems, dropping Linux capabilities, running vulnerability scans (Trivy/Scout), or managing secrets via Docker Secrets or environment files.
+description: Docker Security Hardening Expert. Use when the user asks to configure non-root users, read-only filesystems, drop Linux capabilities, run vulnerability scans, or manage secrets securely. 「Docker 安全加固專家」
 ---
 
 # Docker Security

@@ -1,6 +1,6 @@
 ---
 name: docker-volumes
-description: Docker Persistent Storage Expert. Use when configuring data persistence for databases, setting up bind mounts for development, managing tmpfs storage, or performing volume backup and restore operations.
+description: Docker Persistent Storage Expert. Use when the user asks to configure data persistence for databases, set up bind mounts, manage tmpfs storage, or perform volume backup/restore. 「Docker 儲存磁碟管理」
 ---
 
 # Docker Volumes

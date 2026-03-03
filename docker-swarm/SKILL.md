@@ -1,6 +1,6 @@
 ---
 name: docker-swarm
-description: Docker Swarm Orchestration Expert. Use when initializing clusters, managing manager/worker nodes, deploying high-availability services/stacks, or managing encrypted secrets and configs in multi-host environments.
+description: Docker Swarm Orchestration Expert. Use when the user asks to initialize clusters, manage manager/worker nodes, deploy HA services/stacks, or manage encrypted secrets. 「Docker Swarm 叢集編排」
 ---
 
 # Docker Swarm

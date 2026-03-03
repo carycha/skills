@@ -1,9 +1,6 @@
 ---
 name: visualization-expert
-description: |
-  Chart selection and data visualization guidance for effective data communication.
-  Use when: creating visualizations, choosing chart types, designing dashboards, or when user
-  mentions data visualization, charts, graphs, or needs help presenting data visually.
+description: Data Visualization Expert. Use when the user asks to create visualizations, choose chart types, design dashboards, or needs help presenting data visually for effective communication. 「資料視覺化專家」
 license: MIT
 metadata:
   author: awesome-llm-apps

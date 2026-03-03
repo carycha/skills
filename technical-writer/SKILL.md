@@ -1,10 +1,6 @@
 ---
 name: technical-writer
-description: |
-  Creates clear documentation, API references, guides, and technical content for developers and users.
-  Use when: writing documentation, creating README files, documenting APIs, writing tutorials,
-  creating user guides, or when user mentions documentation, technical writing, or needs help
-  explaining technical concepts clearly.
+description: Technical Writing & Documentation Expert. Use when the user asks to write documentation, create README files, document APIs, write tutorials, or explain technical concepts clearly. 「技術文件撰寫專家」
 license: MIT
 metadata:
   author: awesome-llm-apps

@@ -1,6 +1,6 @@
 ---
 name: docker-patterns
-description: Docker and Docker Compose patterns for local development, container security, networking, volume strategies, and multi-service orchestration.
+description: Docker Development Patterns Expert. Use when the user asks for local development setups, container security, networking strategies, or multi-service orchestration patterns. 「Docker 開發模式專家」
 origin: ECC
 ---
 

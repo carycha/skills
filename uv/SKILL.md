@@ -1,6 +1,6 @@
 ---
 name: uv
-description: UV Python Manager Expert. Use when initializing Python projects, managing dependencies, syncing virtual environments, running tools with `uvx`, or building/publishing distributions with the ultra-fast `uv` toolchain.
+description: UV Python Manager Expert. Use when the user asks to initialize Python projects, manage dependencies, sync virtual environments, or run tools with uvx using the fast uv toolchain. 「UV Python 套件管理專家」
 ---
 
 # uv

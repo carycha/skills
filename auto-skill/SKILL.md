@@ -1,6 +1,6 @@
 ---
 name: auto-skill
-description: "CRITICAL PROTOCOL: Core dependency for all tasks. Automatically checks knowledge-base/experience and triggers best practices. Use in every session to ensure systematic learning and high-quality results. 必須在所有對話啟動，確保遵循 SOTA 級別的開發協議與經驗傳承。"
+description: Auto-Skill Evolutionary Knowledge System. Core dependency for all tasks. Automatically manages knowledge-base and experiences to ensure systematic learning and high-quality results. 「Auto-Skill 自進化知識系統」
 ---
 
 # Auto-Skill 自進化知識系統

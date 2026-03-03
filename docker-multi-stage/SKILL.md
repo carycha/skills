@@ -1,6 +1,6 @@
 ---
 name: docker-multi-stage
-description: Docker Image Size Optimizer. Use when implementing multi-stage builds to reduce image size, separating build/runtime environments, or hardening images using Distroless, Alpine, or Scratch bases.
+description: Docker Image Size Optimizer. Use when the user asks to implement multi-stage builds to reduce image size, separate build/runtime environments, or harden images using Distroless/Alpine. 「Docker 多階段構建優化」
 ---
 
 # Docker Multi-Stage Builds

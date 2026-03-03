@@ -1,6 +1,6 @@
 ---
 name: docker-ci-cd
-description: Docker CI/CD Automation Expert. Use when setting up or optimizing GitHub Actions, GitLab CI, or Jenkins workflows for building, testing, scanning (Trivy), and deploying Docker images with efficient caching and multi-arch support.
+description: Docker CI/CD Automation Expert. Use when the user asks to set up or optimize GitHub Actions/GitLab CI workflows for building, testing, scanning (Trivy), and deploying Docker images. 「Docker CI/CD 自動化專家」
 ---
 
 # Docker CI/CD

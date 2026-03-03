@@ -1,6 +1,6 @@
 ---
 name: postgres-patterns
-description: PostgreSQL Architect. Use when designing schemas, writing SQL migrations, optimizing slow queries, implementing indexes, or configuring Row Level Security (RLS) and advanced security policies following Supabase best practices.
+description: PostgreSQL Architect. Use when the user asks to design schemas, write SQL migrations, optimize slow queries, implement indexes, or configure Row Level Security (RLS) policies. 「PostgreSQL 架構與效能優化」
 ---
 
 # PostgreSQL Patterns

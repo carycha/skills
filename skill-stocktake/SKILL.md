@@ -1,6 +1,6 @@
 ---
 name: skill-stocktake
-description: Skill Library Auditor. Use for periodic auditing and optimization of the Gemini CLI skill library (Quick Scan or Full Stocktake) to ensure high quality, remove redundancy, and maintain up-to-date technical guidance. 技能庫盤點與優化。
+description: Skill Library Auditor. Use for periodic auditing and optimization of the Gemini CLI skill library (Quick Scan or Full Stocktake) to ensure quality and remove redundancy. 「技能庫盤點與優化」
 ---
 
 # skill-stocktake

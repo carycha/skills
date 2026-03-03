@@ -1,6 +1,6 @@
 ---
 name: docker-networking
-description: Docker Networking Expert. Use when configuring custom bridges, overlay networks, multi-tier isolation, service discovery, port mapping, or troubleshooting DNS and container-to-container connectivity.
+description: Docker Networking Expert. Use when the user asks to configure custom bridges, overlay networks, multi-tier isolation, service discovery, or troubleshoot connectivity. 「Docker 網路配置專家」
 ---
 
 # Docker Networking

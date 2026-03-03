@@ -1,6 +1,6 @@
 ---
 name: clickhouse-io
-description: ClickHouse & OLAP Expert. Use when designing high-performance analytical schemas (MergeTree), writing optimized SQL queries, implementing real-time dashboards, or migrating large datasets from relational databases for analytical workloads.
+description: ClickHouse & OLAP Expert. Use when the user asks to design analytical schemas (MergeTree), write optimized SQL queries, implement real-time dashboards, or migrate large datasets for analytical workloads. 「ClickHouse 巨量資料分析專家」
 ---
 
 # ClickHouse Analytics Patterns
