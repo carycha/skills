@@ -1,6 +1,6 @@
 ---
 name: python-patterns
-description: Pythonic idioms, PEP 8 standards, and best practices. Use when writing, reviewing, or refactoring Python code, designing packages, or optimizing performance and memory usage to ensure robust and maintainable applications.
+description: Pythonic Code Expert. Use when writing, reviewing, or refactoring Python code, designing packages, implementing type hints, or optimizing performance and memory usage according to PEP 8 and modern idioms.
 ---
 
 # Python Development Patterns

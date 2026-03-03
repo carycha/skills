@@ -1,6 +1,6 @@
 ---
 name: polars
-description: Lightning-fast DataFrame library written in Rust for high-performance data manipulation and analysis. Use when user wants blazing fast data transformations, working with large datasets, lazy evaluation pipelines, or needs better performance than pandas. Ideal for ETL, data wrangling, aggregations, joins, and reading/writing CSV, Parquet, JSON files.
+description: Polars DataFrame Expert. Use when the user asks for high-performance data manipulation, processing large datasets (CSV, Parquet, JSON), lazy evaluation pipelines, or blazing fast data transformations that outperform pandas.
 ---
 
 # Polars

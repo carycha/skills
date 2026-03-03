@@ -1,6 +1,6 @@
 ---
 name: docker-networking
-description: Configure Docker networking for container communication, service discovery, and isolation. Use when creating custom bridge/overlay networks, implementing multi-tier isolation in Compose, troubleshooting DNS resolution issues, or managing port mapping.
+description: Docker Networking Expert. Use when configuring custom bridges, overlay networks, multi-tier isolation, service discovery, port mapping, or troubleshooting DNS and container-to-container connectivity.
 ---
 
 # Docker Networking

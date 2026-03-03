@@ -1,6 +1,6 @@
 ---
 name: docker-registry
-description: Manage private Docker registries and multi-registry operations. Use when setting up a self-hosted registry (registry:2), configuring authentication for ECR/GCR/GHCR/ACR, tagging/pushing/pulling images across registries, or syncing images using Skopeo.
+description: Docker Registry & Image Manager. Use when managing private registries (registry:2, ECR, GCR, GHCR), configuring auth (TLS/htpasswd), tagging strategies, or syncing images across registries using Skopeo.
 ---
 
 # Docker Registry

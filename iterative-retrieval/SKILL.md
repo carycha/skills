@@ -1,6 +1,6 @@
 ---
 name: iterative-retrieval
-description: 逐步精煉上下文檢索的模式，解決子 Agent (subagent) 啟動時上下文不足的問題。適用於生成子 Agent 之前需要精準 codebase 上下文、或遭遇「上下文過大」或「缺少關鍵資訊」導致任務失敗的情況。
+description: Codebase Context Retrieval Expert. Use when the user needs a deep understanding of a codebase, or when a sub-agent fails due to missing context. Implements a 4-phase refined search (Dispatch-Evaluate-Refine-Loop) for high-precision file discovery. 「迭代檢索」模式。
 ---
 
 # Iterative Retrieval Pattern

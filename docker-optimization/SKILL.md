@@ -1,6 +1,6 @@
 ---
 name: docker-optimization
-description: Optimize Docker images and containers for size, build speed, and runtime performance. Use when reducing image size (Alpine/Distroless), accelerating build times (BuildKit caching), implementing resource limits, or analyzing layer efficiency using dive.
+description: Docker Performance Optimizer. Use when reducing image size, accelerating build times using BuildKit cache mounts, implementing resource limits (L/R), or analyzing layer efficiency using tools like `dive`.
 ---
 
 # Docker Optimization

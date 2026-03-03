@@ -1,6 +1,6 @@
 ---
 name: docker-compose-setup
-description: Master Docker Compose for multi-container application orchestration. Use when designing services, configuring networks/volumes, implementing healthchecks, managing environment-specific overrides, or troubleshooting multi-container startup sequences.
+description: Docker Compose Orchestration Expert. Use when designing multi-container architectures, configuring networks/volumes, implementing healthchecks, or troubleshooting service startup sequences and environment-specific overrides.
 ---
 
 # Docker Compose Setup

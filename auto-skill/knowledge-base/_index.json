@@ -69,6 +69,21 @@
       "count": 0
     },
     {
+      "id": "agent-skills",
+      "name": "Agent 技能優化",
+      "keywords": [
+        "Skill",
+        "Agent",
+        "Trigger",
+        "觸發",
+        "優化",
+        "描述",
+        "Description"
+      ],
+      "file": "agent-skills.md",
+      "count": 1
+    },
+    {
       "id": "workflow",
       "name": "工作流程",
       "keywords": [

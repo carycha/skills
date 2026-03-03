@@ -1,6 +1,6 @@
 ---
 name: docker-security
-description: Secure Docker containers and images with hardening, scanning, and secrets management. Use when configuring non-root users, implementing read-only filesystems, dropping Linux capabilities, running vulnerability scans (Trivy/Scout), or managing sensitive credentials via Docker Secrets.
+description: Docker Security Hardening Expert. Use when configuring non-root users, read-only filesystems, dropping Linux capabilities, running vulnerability scans (Trivy/Scout), or managing secrets via Docker Secrets or environment files.
 ---
 
 # Docker Security

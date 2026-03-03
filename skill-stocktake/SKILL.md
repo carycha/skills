@@ -1,6 +1,6 @@
 ---
 name: skill-stocktake
-description: 定期審核與優化 Gemini CLI 技能庫。支援「快速掃描」(僅評估異動檔案) 與「全面盤點」(完整審核) 模式，確保技能的高品質、不重複且具備時效性。
+description: Skill Library Auditor. Use for periodic auditing and optimization of the Gemini CLI skill library (Quick Scan or Full Stocktake) to ensure high quality, remove redundancy, and maintain up-to-date technical guidance. 技能庫盤點與優化。
 ---
 
 # skill-stocktake

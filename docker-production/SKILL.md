@@ -1,6 +1,6 @@
 ---
 name: docker-production
-description: Deploy Docker containers to production with high availability, monitoring, and observability. Use when configuring production-grade healthchecks, resource limits (L/R), logging drivers, monitoring stacks (Prometheus/Grafana), or implementing rolling/blue-green deployment strategies.
+description: Docker Production Deployment Expert. Use when configuring high-availability healthchecks, resource governance, logging drivers, monitoring stacks (Prometheus/Grafana), or implementing zero-downtime rolling/blue-green updates.
 ---
 
 # Docker Production

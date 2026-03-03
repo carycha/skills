@@ -1,6 +1,6 @@
 ---
 name: search-first
-description: 開發前先行研究的工作流程。在啟動新功能、添加依賴項或建立自定義工具之前使用。優先搜尋現有工具（npm, PyPI, GitHub, web）而非直接撰寫新程式碼。
+description: Research-First Development Workflow. Use before starting any new implementation, adding dependencies, or building custom tools to find existing high-quality libraries (npm, PyPI, GitHub) and avoid reinventing the wheel. 「先搜尋再開發」流程。
 ---
 
 # Search-First：開發前先行研究

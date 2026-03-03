@@ -1,6 +1,6 @@
 ---
 name: clickhouse-io
-description: ClickHouse patterns for high-performance analytical workloads. Use when designing schemas (MergeTree family), writing/optimizing analytical queries, implementing real-time dashboards, ingesting large volumes of data, or migrating from relational databases for OLAP.
+description: ClickHouse & OLAP Expert. Use when designing high-performance analytical schemas (MergeTree), writing optimized SQL queries, implementing real-time dashboards, or migrating large datasets from relational databases for analytical workloads.
 ---
 
 # ClickHouse Analytics Patterns

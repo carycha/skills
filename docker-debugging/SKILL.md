@@ -1,6 +1,6 @@
 ---
 name: docker-debugging
-description: Container debugging and troubleshooting techniques for production and development. Use when diagnosing container crashes (OOM, Segfault), performance issues (high CPU/Mem), networking failures (DNS, connectivity), or healthcheck status problems.
+description: Docker Troubleshooting Expert. Use when diagnosing container crashes (OOM, Segfault), performance bottlenecks (CPU/Mem), networking failures (DNS), or healthcheck issues in development or production environments.
 ---
 
 # Docker Debugging

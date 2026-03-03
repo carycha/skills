@@ -1,6 +1,6 @@
 ---
 name: docker-ci-cd
-description: Docker integration with CI/CD pipelines for automated builds, testing, and deployments. Use when setting up GitHub Actions or GitLab CI workflows for Docker images, implementing security scans, multi-arch builds, or optimizing build caching.
+description: Docker CI/CD Automation Expert. Use when setting up or optimizing GitHub Actions, GitLab CI, or Jenkins workflows for building, testing, scanning (Trivy), and deploying Docker images with efficient caching and multi-arch support.
 ---
 
 # Docker CI/CD

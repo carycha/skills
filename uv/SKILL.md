@@ -1,6 +1,6 @@
 ---
 name: uv
-description: Extremely fast Python package and project manager. Use when initializing Python projects, managing dependencies, syncing virtual environments, running tools with uvx, building distributions, or managing Python versions.
+description: UV Python Manager Expert. Use when initializing Python projects, managing dependencies, syncing virtual environments, running tools with `uvx`, or building/publishing distributions with the ultra-fast `uv` toolchain.
 ---
 
 # uv

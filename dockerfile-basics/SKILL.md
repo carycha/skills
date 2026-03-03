@@ -1,6 +1,6 @@
 ---
 name: dockerfile-basics
-description: Learn Dockerfile fundamentals and best practices for building production-ready container images
+description: Dockerfile Fundamentals Expert. Use when creating, refactoring, or optimizing a Dockerfile for the first time, ensuring 2024-2025 best practices for instruction ordering, layer caching, and base image selection.
 sasmp_version: "1.3.0"
 bonded_agent: 01-docker-fundamentals
 bond_type: PRIMARY_BOND

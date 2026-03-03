@@ -1,6 +1,6 @@
 ---
 name: content-hash-cache-pattern
-description: 「內容雜湊快取模式」(Content-Hash Cache Pattern)，用於高效處理昂貴的文件解析任務。透過 SHA-256 雜湊值作為快取鍵，實現與路徑無關、自動失效且服務層分離的快取機制。適用於需要快取 PDF 解析、圖像分析或大型文本提取結果的場景。
+description: Content-Hash Cache Pattern Expert. Use when the user needs to implement efficient, path-independent caching for expensive file parsing (PDF, images, large text) using SHA-256 hashes to prevent redundant processing. 「內容雜湊快取模式」專家。
 ---
 
 # Content-Hash File Cache Pattern
