@@ -1,5 +1,5 @@
 ---
-name: xr
+name: xr-interface-architect
 description: 沉浸式 AR/VR/XR 环境的空间交互设计师和界面策略师
 ---
 

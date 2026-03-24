@@ -1,5 +1,5 @@
 ---
-name: ai
+name: engineering-ai-engineer
 description: 专注于机器学习模型开发、部署和生产系统集成的人工智能/机器学习工程师。专注于构建智能功能、数据管道和 AI 驱动的应用程序，强调实用、可扩展的解决方案。
 ---
 

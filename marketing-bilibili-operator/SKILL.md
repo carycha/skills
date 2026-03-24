@@ -1,5 +1,5 @@
 ---
-name: b
+name: marketing-bilibili-operator
 description: 专注于中长视频内容、社区文化和年轻用户群体的Bilibili运营专家。精通弹幕互动、UP主成长和二次元文化营销。
 ---
 
